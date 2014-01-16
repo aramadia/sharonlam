@@ -63,15 +63,6 @@
 							size: '75%',
 							html: '<div data-action="navList" data-args="nav"></div>'
 						}
-					},
-					overlays: {
-						navButton: {
-							breakpoints: 'mobile',
-							position: 'top-center',
-							width: 100,
-							height: 50,
-							html: '<div class="toggle" data-action="togglePanel" data-args="navPanel"></div>'
-						}
 					}
 				}
 			}
